@@ -74,7 +74,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Mova `app.py`, `main.ipynb` (e `model.keral` caso queira usar modelo pronto) para dentro do ambiente criado.
+### 4. Mova `app.py`, `main.ipynb` (e `model.keras` caso queira usar modelo pronto) para dentro do ambiente criado.
 ```bash
 Brain-Tumor-Segmentation-UNet/             
 ├── venv/
