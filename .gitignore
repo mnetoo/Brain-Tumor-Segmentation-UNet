@@ -1,0 +1,32 @@
+# Ambiente virtual específico
+venv/
+
+# pyvenv
+pyvenv.cfg
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Arquivos de ambiente / segredos
+*.env
+
+# Logs
+*.log
+
+# Distribuição e build (caso use PyInstaller, etc.)
+build/
+dist/
+*.egg-info/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
