@@ -117,7 +117,9 @@ Brain-Tumor-Segmentation-UNet/
 A rede demonstrou capacidade de ignorar tecido saudável e focar especificamente nas anomalias de textura do tumor.
 
 ## Autor
-Desenvolvido por Marcus Neto
+Desenvolvido por Marcus S. A. R. Neto
+
+Nota: Este repositório foi criado após a conclusão do desenvolvimento local. Como resultado, o commit inicial já contém a implementação completa do projeto.
 
 ## Licença ⚖️
 Este dataset pertence a The Cancer Imaging Archive (TCIA) e foi obtido via Kaggle (LGG MRI Segmentation). O código neste repositório está sob licença MIT.
