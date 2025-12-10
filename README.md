@@ -12,6 +12,7 @@
 
 ![Resultado](./results/img1.png)
 ![Resultado](./results/img2.png)
+<img src="https://raw.githubusercontent.com/mnetoo/mnetoo/main/assets/Brain-Tumor-Segmentation-UNet/img1.png">
 
 ---
 
